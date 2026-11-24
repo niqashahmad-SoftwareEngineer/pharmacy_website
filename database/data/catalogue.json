@@ -1,0 +1,92 @@
+{
+  "categories": [
+    {
+      "name": "Medicines",
+      "icon": "✚",
+      "tint": "#e9f2eb"
+    },
+    {
+      "name": "Baby Care",
+      "icon": "♧",
+      "tint": "#fff1e1"
+    },
+    {
+      "name": "Personal Care",
+      "icon": "✿",
+      "tint": "#f4eaf1"
+    },
+    {
+      "name": "Vitamins & Wellness",
+      "icon": "☀",
+      "tint": "#fff5d9"
+    },
+    {
+      "name": "Healthcare Devices",
+      "icon": "♡",
+      "tint": "#e7f1fa"
+    },
+    {
+      "name": "First Aid",
+      "icon": "⊞",
+      "tint": "#e7f3ee"
+    }
+  ],
+  "products": [
+    {
+      "name": "Everyday medicine essentials",
+      "category": "Medicines",
+      "label": "MEDICINE",
+      "accent": "#238575",
+      "description": "Explore medicine availability with the store team. Bring the exact name, strength and prescription where applicable."
+    },
+    {
+      "name": "Baby care essentials",
+      "category": "Baby Care",
+      "label": "BABY CARE",
+      "accent": "#cba05c",
+      "description": "Explore everyday baby care items. Ask in store about available brands, pack sizes and prices."
+    },
+    {
+      "name": "Daily skin care",
+      "category": "Personal Care",
+      "label": "SKIN CARE",
+      "accent": "#b88f9f",
+      "description": "Browse skin care product types and check the available options in store."
+    },
+    {
+      "name": "Vitamins & supplements",
+      "category": "Vitamins & Wellness",
+      "label": "WELLNESS",
+      "accent": "#d2ab4f",
+      "description": "Ask in store about available vitamins and supplements. Product suitability should be discussed with a qualified healthcare professional."
+    },
+    {
+      "name": "Digital thermometers",
+      "category": "Healthcare Devices",
+      "label": "HEALTHCARE",
+      "accent": "#6291ae",
+      "description": "Check available thermometer models, instructions and pricing with the store."
+    },
+    {
+      "name": "First aid essentials",
+      "category": "First Aid",
+      "label": "FIRST AID",
+      "accent": "#448b75",
+      "description": "Explore bandages, dressings and other first aid product types. Actual stock is to be confirmed."
+    },
+    {
+      "name": "Oral care essentials",
+      "category": "Personal Care",
+      "label": "ORAL CARE",
+      "accent": "#549890",
+      "description": "Ask about available toothbrushes, toothpaste and other oral care essentials."
+    },
+    {
+      "name": "Baby hygiene",
+      "category": "Baby Care",
+      "label": "GENTLE CARE",
+      "accent": "#b89a75",
+      "description": "Check in store for available baby hygiene products, pack sizes and prices."
+    }
+  ]
+}
