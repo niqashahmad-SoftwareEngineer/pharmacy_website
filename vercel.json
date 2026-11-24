@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "echo 'Static storefront build ready'",
+  "installCommand": "echo 'No installation needed for static storefront'",
+  "outputDirectory": "dist",
+  "cleanUrls": true
+}
